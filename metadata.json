@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Panel de Consumo Eléctrico",
+  "description": "Un panel de control para monitorear y gestionar el consumo eléctrico del hogar en tiempo real, con consejos de ahorro generados por IA.",
+  "requestFramePermissions": []
+}
